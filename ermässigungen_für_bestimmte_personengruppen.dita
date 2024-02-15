@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="ermässigungen_für_bestimmte_personengruppen">
+    <title>Ermässigungen für bestimmte Personengruppen</title>
+    <shortdesc>Ermäßigungen für bestimmte Personengruppen in der DB Navigator App zu nutzen,
+        ermöglicht es qualifizierten Reisenden, von speziellen Tarifen und Angeboten der Deutschen
+        Bahn zu profitieren. </shortdesc>
+    <conbody>
+        <ul id="ul_djl_mrx_k1c">
+            <li><b>Kinder:</b> Geben Sie das Alter der mitreisenden Kinder an, um automatische
+                Ermäßigungen zu erhalten. Kinder unter 6 Jahren reisen in der Regel kostenlos, und
+                für Kinder von 6 bis 14 Jahren gelten oft ermäßigte Tarife oder sie reisen kostenlos
+                in Begleitung ihrer Eltern oder Großeltern.</li>
+            <li><b>Jugendliche, Senioren, und weitere berechtigte Gruppen:</b> Für andere
+                Personengruppen wie Jugendliche, Senioren oder Menschen mit Behinderungen können
+                ebenfalls Ermäßigungen verfügbar sein. Prüfen Sie, ob es ein entsprechendes Feld
+                gibt, um den Status oder das Alter anzugeben, und wählen Sie gegebenenfalls die
+                entsprechende Option aus.</li>
+            <li><b>Gruppenreisen:</b> Wenn Sie als Gruppe reisen, geben Sie die Gesamtzahl der
+                Personen an. Es gibt spezielle Gruppentarife, die bei der Buchung für mehrere
+                Personen angewendet werden können.</li>
+            <li><b>BahnCard-Besitzer:</b> Wenn einer oder mehrere Reisende eine BahnCard besitzen,
+                wählen Sie die entsprechende BahnCard-Option aus, um die Ermäßigung auf den
+                Ticketpreis anzuwenden.</li>
+        </ul>
+        <section id="section_yc3_nrx_k1c">
+            <title>Wichtige Hinweise</title>
+            <ul id="ul_zc3_nrx_k1c">
+                <li><b>Nachweis erforderlich:</b> Für bestimmte Ermäßigungen kann es notwendig sein,
+                    einen gültigen Nachweis (z.B. einen Ausweis, eine BahnCard oder einen
+                    Schwerbehindertenausweis) beim Reisen mitzuführen.</li>
+                <li><b>Bedingungen und Verfügbarkeit:</b> Die Verfügbarkeit von Ermäßigungen kann je
+                    nach Zugtyp, Strecke und Buchungszeitraum variieren. Lesen Sie die spezifischen
+                    Bedingungen jeder Ermäßigung sorgfältig durch.</li>
+            </ul>
+        </section>
+        <section id="section_lht_5sx_k1c">
+            <p>Durch die Nutzung der DB Navigator App können Reisende einfach auf Ermäßigungen für
+                verschiedene Personengruppen zugreifen und so ihre Reisekosten optimieren, während
+                sie gleichzeitig die Bequemlichkeit digitaler Buchungen genießen.</p>
+        </section>
+    </conbody>
+</concept>

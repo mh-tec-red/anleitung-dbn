@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="sparpreise_und_super_sparpreise">
+    <title>Sparpreise und Super-Sparpreise</title>
+    <shortdesc>In der DB Navigator App können Sparpreise und Super-Sparpreise genutzt werden, um bei
+        der Buchung von Zugfahrten mit der Deutschen Bahn (DB) erheblich zu sparen. Diese
+        vergünstigten Tarife bieten eine kostengünstige Möglichkeit für Reisende, durch Deutschland
+        und in einige europäische Nachbarländer zu reisen.</shortdesc>
+    <conbody>
+        <section id="section_qb3_3px_k1c">
+            <title>Wichtige Hinweise zu Sparpreisen und Super-Sparpreisen</title>
+            <ul id="ul_rb3_3px_k1c">
+                <li><b>Vorausbuchung:</b> Sparpreise und Super-Sparpreise sind oft schon bis zu 180
+                    Tage vor der geplanten Abfahrt buchbar. Je früher Sie buchen, desto höher ist
+                    die Wahrscheinlichkeit, von diesen Tarifen zu profitieren.</li>
+                <li><b>Flexibilität:</b> Sparpreise bieten eine gewisse Flexibilität, während
+                    Super-Sparpreise oft die günstigste Option sind, aber mit strengeren Bedingungen
+                    für Umtausch und Stornierung einhergehen.</li>
+                <li><b>BahnCard-Rabatt:</b> Inhaber einer BahnCard können zusätzlich zu den
+                    Sparpreisen und Super-Sparpreisen Rabatte erhalten.</li>
+            </ul>
+            <p>Durch die Nutzung von Sparpreisen und Super-Sparpreisen über die DB Navigator App
+                können Reisende ihre Reisekosten deutlich reduzieren, besonders wenn sie flexibel in
+                ihrer Reiseplanung sind und frühzeitig buchen.</p>
+        </section>
+        <section id="section_s1n_zqx_k1c">
+            <title>So können Sie Sparpreise und Super-Sparpreise nutzen</title>
+            <p>Wenn ein Sparpreis oder Super-Sparpreis für Ihre gewählte Verbindung verfügbar ist,
+                können Sie diesen auswählen, indem Sie auf den entsprechenden Preis tippen. Beachten
+                Sie, dass diese Tarife nur in begrenzter Anzahl und zu bestimmten Zeiten verfügbar
+                sind. Frühzeitiges Buchen erhöht Ihre Chancen, diese Tarife zu sichern.</p>
+        </section>
+    </conbody>
+</concept>

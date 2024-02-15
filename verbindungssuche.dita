@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="verbindungssuche">
+    <title>Verbindungssuche</title>
+    <taskbody>
+        <context>
+            <p>Lernen Sie, wie Sie die Verbindungssuche initiieren und grundlegende Suchparameter
+                wie Start- und Zielort eingeben.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Öffnen Sie die DB Navigator App. <image href="bilder/db-navigator.png"
+                        width="25" height="25" id="db-navigator-app"/></cmd>
+            </step>
+            <step>
+                <cmd>Tippen Sie in der unteren Leiste der App auf <b>Buchen</b>. <image
+                        href="bilder/buchen.png" height="25" id="btn_buchen">
+                        <alt>Buchen</alt>
+                    </image></cmd>
+                <stepresult>Auf Ihrem Display erscheint folgende Ansicht:<image
+                        href="bilder/verbindungssuche-blanko.png" height="150" placement="break"
+                        class="- topic/image " id="verbindungssuche_blanko" align="center">
+                        <alt>Startseite Verbindungssuche</alt>
+                    </image></stepresult>
+            </step>
+            <step>
+                <cmd>Geben Sie in das Feld "Von" Ihren Abfahrtsort ein.</cmd>
+                <stepresult>Sie erhalten eine Auswahl verschiedener Stationen auf Basis Ihrer
+                        Eingabe:<image href="bilder/startort-waehlen.png" height="150"
+                        placement="break" class="- topic/image " id="start-waehlen" align="center">
+                        <alt>Auswahl der Stationen</alt>
+                    </image></stepresult>
+            </step>
+            <step>
+                <cmd>Wählen Sie die Haltestelle Ihres Abfahrtsorts aus.</cmd>
+            </step>
+            <step>
+                <cmd>Geben Sie in das Feld "Nach" Ihren Zielort ein.</cmd>
+                <stepresult>Sie erhalten eine Auswahl verschiedener Stationen auf Basis Ihrer
+                        Eingabe:<image placement="break" href="bilder/ziel-waehlen.png" height="150"
+                        class="- topic/image " id="ziel-waehlen" align="center">
+                        <alt>Auswahl der Stationen</alt>
+                    </image></stepresult>
+            </step>
+            <step>
+                <cmd>Wählen Sie die <xref href="datum_und_uhrzeit_einstellen.dita">gewünschte
+                        Reisezeit</xref> aus: <image placement="inline" href="bilder/datum-feld.png"
+                        height="25" id="datum-feld">
+                        <alt>Buchen</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Nehmen Sie ggf. weitere Änderungen der <xref href="suchoptionen.dita"
+                        >Suchoptionen</xref> vor.</cmd>
+            </step>
+            <step>
+                <cmd>Tippen Sie auf <b>Suchen</b></cmd>
+            </step>
+        </steps>
+        <result id="result_qlc_rfw_k1c">Sie erhalten eine Liste möglicher Verbindungen auf Basis
+            Ihrer Suchoptionen. Durch Klicken auf die einzelnen Verbindungen können Sie sich die
+            Details ansehen:<ul id="ul_kqz_mt2_l1c">
+                <li>Zuginformationen</li>
+                <li>Gleisinformationen</li>
+                <li>Auslastungsinformationen</li>
+                <li>Zwischenhalte</li>
+                <li>Umstiege und Umstiegszeiten</li>
+                <li>Umstiegszeiten</li>
+            </ul>
+        </result>
+        <postreq id="postreq_wdg_152_l1c">In der Detailansicht können Sie sich Verbindungen merken,
+            diese werden dann im Abschnitt <option>Reisen</option> angezeigt. Mit dem Teilen-Button
+            können Sie einen Link zur Verbindung mit anderen Personen teilen.</postreq>
+    </taskbody>
+</task>

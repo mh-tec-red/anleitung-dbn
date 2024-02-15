@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="überblick_über_die_db_navigator_app">
+    <title>Überblick über die DB Navigator App</title>
+    <shortdesc>Willkommen in der Welt der DB Navigator App – Ihrem digitalen Assistenten für die
+        Planung und Optimierung Ihrer Bahnreisen. </shortdesc>
+    <conbody>
+        <p>Diese App, entwickelt von der Deutschen Bahn, bietet Ihnen die Möglichkeit, Ihre Reisen
+            effizient und komfortabel zu gestalten, indem Sie auf umfassende Fahrplandaten und
+            Verbindungsoptionen zugreifen können.</p>
+        <p>Die Hauptfunktionen der DB Navigator App umfassen:</p>
+        <ul id="ul_lss_gfp_k1c">
+            <li>
+                <p><b>Verbindungssuche:</b> Finden Sie schnell und einfach Zugverbindungen zwischen
+                    zwei oder mehr Orten. Die App bietet Ihnen detaillierte Informationen zu
+                    Abfahrts- und Ankunftszeiten, Umstiegen, Zugtypen und der gesamten Reisedauer.
+                    Nutzen Sie die vielfältigen Filteroptionen, um Ihre Suche nach Ihren
+                    individuellen Bedürfnissen anzupassen – ob Sie die schnellste, die günstigste
+                    oder eine Verbindung mit möglichst wenigen Umstiegen bevorzugen.</p>
+            </li>
+            <li>
+                <p><b>Ermittlung von Reisekosten:</b> Sobald Sie eine passende Verbindung gefunden
+                    haben, ermöglicht Ihnen die App, die Kosten für Ihre Reise einzusehen. Sie
+                    erhalten eine Übersicht über die verschiedenen verfügbaren Tarife,
+                    einschließlich Sparpreise und Flexpreise, sodass Sie die für Sie passendste
+                    Option wählen können.</p>
+            </li>
+            <li>
+                <p><b>Ticketbuchung (Überblick):</b> Die App bietet auch eine intuitive
+                    Schnittstelle für die Buchung von Tickets. In dieser Dokumentation konzentrieren
+                    wir uns auf den Buchungsprozess bis zu dem Punkt, an dem eine Anmeldung oder
+                    Registrierung erforderlich wird. Dies gibt Ihnen einen Einblick in die einfache
+                    Handhabung des Ticketkaufs, ohne dass Sie persönliche Daten eingeben oder ein
+                    Konto erstellen müssen.</p>
+            </li>
+        </ul>
+        <p>Die DB Navigator App zielt darauf ab, Ihren Reisealltag zu vereinfachen, indem sie Ihnen
+            hilft, die besten Verbindungen zu finden und Ihre Reisekosten im Blick zu behalten. Mit
+            einer benutzerfreundlichen Oberfläche und einer Vielzahl von hilfreichen Funktionen ist
+            sie das ideale Werkzeug für alle, die mit der Bahn reisen möchten – egal, ob Sie ein
+            regelmäßiger Pendler oder ein gelegentlicher Reisender sind.</p>
+        <p>In den folgenden Abschnitten dieser Dokumentation werden wir Ihnen detailliert zeigen,
+            wie Sie diese Funktionen nutzen können, um Ihre Reisen noch angenehmer und effizienter
+            zu gestalten.<note id="note_pjh_2qd_l1c">Die Informationen in dieser Einführung beziehen
+                sich auf die App-Version DB Navigator 24.10.2 (240000019)</note></p>
+    </conbody>
+</concept>

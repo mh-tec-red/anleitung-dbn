@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="datum">
+    <title>Datum</title>
+    <shortdesc>Die Option "Datum" in der DB Navigator App spielt eine zentrale Rolle bei der Planung
+        Ihrer Bahnreisen. Sie ermöglicht es Ihnen, Ihre Suche nach Zugverbindungen präzise auf den
+        von Ihnen gewünschten Reisetag und -zeit zu fokussieren. Hier eine Zusammenfassung der
+        Möglichkeiten und Relevanz dieser Option:</shortdesc>
+    <conbody>
+        <p>Die Option "Datum" in der DB Navigator App spielt eine zentrale Rolle bei der Planung
+            Ihrer Bahnreisen. Sie ermöglicht es Ihnen, Ihre Suche nach Zugverbindungen präzise auf
+            den von Ihnen gewünschten Reisetag und -zeit zu fokussieren. Hier eine Zusammenfassung
+            der Möglichkeiten und Relevanz dieser Option:</p>
+        <section id="sec_datum_datum">
+            <title>Datumswahl</title>
+            <ul id="ul_cdl_l52_l1c">
+                <li><b>Reisedatum auswählen:</b> Sie können das exakte Datum für Ihre Reise
+                    festlegen. Dies ist besonders wichtig, da Verfügbarkeiten und Preise von
+                    Zugverbindungen sich täglich ändern können. Die frühzeitige Planung kann oft zu
+                    günstigeren Preisen führen, besonders bei Sparangeboten.</li>
+            </ul>
+        </section>
+        <section id="sec_datum_uhrzeit">
+            <title>Uhrzeitpräferenz</title>
+            <ul id="ul_kwj_dww_k1c">
+                <li><b>Abfahrts- oder Ankunftszeit:</b> Neben dem Datum können Sie auch
+                    spezifizieren, ob Sie zu einer bestimmten Uhrzeit abfahren oder zu einer
+                    bestimmten Uhrzeit an Ihrem Zielort ankommen möchten. Diese Flexibilität ist
+                    hilfreich, um Ihre Reisepläne um Termine oder Veranstaltungen herum zu
+                    organisieren.</li>
+            </ul>
+        </section>
+        <section id="sec_datum_relevanz">
+            <title>Relevanz</title>
+            <ul id="ul_nwj_dww_k1c">
+                <li><b>Optimierung der Reiseplanung:</b> Durch die genaue Angabe von Datum und Zeit
+                    können Sie Ihre Reise effektiv planen und sicherstellen, dass Sie Verbindungen
+                    finden, die genau zu Ihrem Zeitplan passen.</li>
+                <li><b>Anpassung an besondere Bedürfnisse:</b> Die Datumsoption hilft auch dabei,
+                    Reisen an Feiertagen oder zu Stoßzeiten im Voraus zu planen, um Verfügbarkeit zu
+                    sichern und mögliche Einschränkungen oder höhere Preise zu vermeiden.</li>
+            </ul>
+        </section>
+        <section id="sec_datum_fazit">
+            <p>Die Datumsoption in der DB Navigator App ist somit ein essenzielles Werkzeug, um Ihre
+                Reisen nach Ihren individuellen Bedürfnissen und Plänen zu gestalten. Sie bietet
+                Ihnen die Kontrolle und Flexibilität, um Ihre Bahnreisen effizient und nach Ihren
+                Wünschen zu organisieren.</p>
+        </section>
+    </conbody>
+</concept>

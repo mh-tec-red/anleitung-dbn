@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="ticketpreise">
+    <title>Ticketpreise</title>
+    <shortdesc>Die DB Navigator App bietet eine intuitive Plattform zur Planung Ihrer Bahnreisen und
+        zur Ermittlung der damit verbundenen Kosten. Ein zentrales Merkmal der App ist die
+        Fähigkeit, zwischen verschiedenen Preisvarianten zu wählen und Ermäßigungen zu nutzen, um
+        die Reisekosten effektiv zu verwalten. Verstehen, wie Sparpreis, Super-Sparpreis, Flexpreis
+        sowie Ermäßigungsmöglichkeiten funktionieren und in welcher Weise der Buchungszeitpunkt die
+        Ticketpreise beeinflussen kann, ist entscheidend für eine kosteneffiziente
+        Reiseplanung.</shortdesc>
+    <conbody>
+        <section id="sec_ticketpreise_var">
+            <title>Preisvarianten</title>
+            <p>
+                <ul id="ul_twc_k12_l1c">
+                    <li>
+                        <p><b>Sparpreis:</b> Der Sparpreis bietet eine kostengünstige Option für
+                            Reisende, die ihre Fahrt im Voraus planen. Sparpreistickets sind
+                            kontingentiert und daher in begrenzter Anzahl verfügbar. Sie bieten eine
+                            feste Verbindung zu einem deutlich reduzierten Preis im Vergleich zum
+                            Flexpreis.</p>
+                    </li>
+                    <li>
+                        <p><b>Super-Sparpreis:</b> Noch günstiger als der Sparpreis, ist der
+                            Super-Sparpreis die preiswerteste Ticketoption, die allerdings mit den
+                            strengsten Bedingungen verbunden ist, einschließlich keiner Möglichkeit
+                            zur Erstattung oder zum Umtausch.</p>
+                    </li>
+                    <li>
+                        <p><b>Flexpreis:</b> Der Flexpreis bietet maximale Flexibilität, ermöglicht
+                            das Reisen auf jeder gewählten Verbindung am gebuchten Tag und bietet
+                            kostenlose Umtausch- und Erstattungsoptionen bis zum Reisetag. Dieser
+                            Tarif ist ideal für Reisende, die Flexibilität benötigen.</p>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section id="sec_ticketpreise_rabatte">
+            <title>Ermäßigungen</title>
+            <p>Die DB Navigator App berücksichtigt verschiedene Ermäßigungsmöglichkeiten für
+                BahnCard-Inhaber, Kinder, Senioren, Gruppen und Menschen mit Behinderung. Durch
+                Angabe des entsprechenden Status oder der Besitz einer BahnCard bei der Buchung
+                können Reisende signifikante Ermäßigungen auf die regulären Ticketpreise
+                erhalten.</p>
+        </section>
+        <section id="sec_ticketpreise_zeitpunkt">
+            <title>Buchungszeitpunkt</title>
+            <p>Der Zeitpunkt Ihrer Buchung spielt eine entscheidende Rolle bei der Preisgestaltung
+                der Tickets. Generell gilt: Je früher Sie buchen, desto höher ist die
+                Wahrscheinlichkeit, von Sparpreisen und Super-Sparpreisen zu profitieren, da diese
+                Preise aufgrund der begrenzten Verfügbarkeit tendenziell steigen, je näher das
+                Reisedatum rückt. Frühbucher haben somit nicht nur eine größere Auswahl an günstigen
+                Tickets, sondern auch eine größere Auswahl an Verbindungen.</p>
+        </section>
+        <section id="sec_ticketpreise_summary">
+            <p>Die effektive Nutzung der DB Navigator App zur Ermittlung der Reisekosten erfordert
+                ein Verständnis der unterschiedlichen Preisvarianten und der verfügbaren
+                Ermäßigungen sowie ein Bewusstsein darüber, wie der Buchungszeitpunkt die Kosten
+                beeinflussen kann. Indem Reisende ihre Optionen kennen und strategisch planen,
+                können sie erheblich sparen und gleichzeitig die für ihre Bedürfnisse passende
+                Flexibilität und Komfort wählen. Die DB Navigator App dient als umfassendes Tool,
+                das Ihnen hilft, ihre Bahnreisen effizient und kosteneffektiv zu gestalten.</p>
+        </section>
+    </conbody>
+    <related-links>
+        <link href="erm%C3%A4ssigungen.dita"/>
+        <link href="bahncard_rabatte_nutzen.dita"/>
+        <link href="sparpreise_und_super_sparpreise.dita"/>
+        <link href="erm%C3%A4ssigungen_f%C3%BCr_bestimmte_personengruppen.dita"/>
+        <link href="regionale_angebote_und_l%C3%A4ndertickets.dita"/>
+    </related-links>
+</concept>

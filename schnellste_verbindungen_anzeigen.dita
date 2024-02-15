@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="schnellste_verbindungen_anzeigen">
+    <title>Schnellste Verbindungen anzeigen</title>
+    <conbody>
+        <p>Eine der beliebtesten Suchoptionen ist die Möglichkeit, sich ausschließlich die
+            schnellsten Verbindungen anzeigen zu lassen. Wenn Zeit ein entscheidender Faktor für
+            Ihre Reiseplanung ist, hilft Ihnen diese Option, schnell die effizientesten Routen zu
+            finden, die Sie so schnell wie möglich an Ihr Ziel bringen.</p>
+        <p>Betätigen Sie lediglich den Schiebeschalter, um diese Option zu aktivieren:</p>
+        <p>
+            <image placement="break" href="bilder/schnellste-verbindung.png" align="center"
+                id="image_dgc_rwq_k1c" height="300">
+                <alt>Auswahlfenster Schnellste Verbindungen</alt>
+            </image>
+        </p>
+    </conbody>
+</concept>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="reisende_löschen">
+    <title>Reisende löschen</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>Entfernen Sie einen oder mehrere Reisende aus Ihrer Suchanfrage.<p/></context>
+        <steps>
+            <step>
+                <cmd>Suchen Sie den Reisenden in der Reisendenliste.</cmd>
+            </step>
+            <step>
+                <cmd>Tippen Sie auf das Mülleimer-Symbol auf der rechten Seite.</cmd>
+            </step>
+            <step>
+                <cmd>Wiederholen Sie den Vorgang für alle Reisenden, die Sie entfernen
+                    möchten.</cmd>
+            </step>
+        </steps>
+        <result id="result_cnw_qyw_k1c">Die Liste der Reisenden wurde aktualisiert. Über die Option
+                <b>Reisende hinzufügen</b> können Sie Reisende erneut hinzufügen.</result>
+    </taskbody>
+</task>

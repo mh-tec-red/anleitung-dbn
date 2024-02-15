@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="reisende_bearbeiten">
+    <title>Reisende bearbeiten</title>
+    <shortdesc>Erfahren Sie, wie Sie Informationen über Reisende bearbeiten.</shortdesc>
+    <taskbody>
+        <steps>
+            <step conref="reisende_hinzuf%C3%BCgen.dita#reisende_hinzufügen/reisende-step1">
+                <cmd/>
+            </step>
+            <step conref="reisende_hinzuf%C3%BCgen.dita#reisende_hinzufügen/reisende-step2">
+                <cmd/>
+            </step>
+            <step>
+                <cmd>Tippen Sie auf einen Eintrag: <image placement="inline"
+                        href="bilder/person-bearbeiten.png" height="25" id="image_xk1_xjd_l1c"
+                    /></cmd>
+                <stepresult>Auf Ihrem Display erscheint das Auswahlmenü <option>Reisende
+                        bearbeiten</option><image placement="break"
+                        href="bilder/menu-reisende-bearbeiten.png" height="150" align="center"
+                        id="image_kyk_gkd_l1c"/></stepresult>
+            </step>
+            <step conref="reisende_hinzuf%C3%BCgen.dita#reisende_hinzufügen/stp_reisende_optionen">
+                <cmd/>
+            </step>
+            <step conref="reisende_hinzuf%C3%BCgen.dita#reisende_hinzufügen/stp_reisende_okay">
+                <cmd/>
+            </step>
+            <step
+                conref="datum_und_uhrzeit_einstellen.dita#datum_und_uhrzeit_einstellen/step_fertig">
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

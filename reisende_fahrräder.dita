@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="reisende_fahrräder">
+    <title>Reisende, Fahrräder</title>
+    <shortdesc>Die Option "Reisende, Fahrräder" in der DB Navigator App bietet Ihnen die
+        Möglichkeit, Ihre Suche nach Zugverbindungen individuell anzupassen, indem Sie spezifische
+        Angaben zu den Reisenden und der Mitnahme von Fahrrädern machen. Diese Angaben sind aus
+        folgenden Gründen relevant:</shortdesc>
+    <conbody>
+        <section id="section_owb_1xw_k1c">
+            <title>Reisende</title>
+            <ul id="ul_gmk_xvw_k1c">
+                <li><b>Anzahl der Reisenden:</b> Sie können die Anzahl der Personen angeben, die
+                    reisen. Dies ist wichtig für die Buchung von Gruppentickets oder die Prüfung der
+                    Verfügbarkeit von Sitzplätzen für mehrere Reisende.</li>
+                <li><b>Altersgruppe:</b> Die Angabe des Alters (z.B. Erwachsene, Kinder) ist
+                    relevant für die Tarifberechnung, da unterschiedliche Altersgruppen Anspruch auf
+                    unterschiedliche Tarife oder Ermäßigungen haben können.</li>
+                <li><b>BahnCard oder andere Rabattkarten:</b> Wenn Reisende eine BahnCard oder eine
+                    andere Rabattkarte besitzen, können Sie diese Information hinzufügen, um
+                    entsprechende Rabatte auf die Ticketpreise zu erhalten.</li>
+            </ul>
+        </section>
+        <section id="section_hmk_xvw_k1c">
+            <title>Fahrräder</title>
+            <ul id="ul_imk_xvw_k1c">
+                <li><b>Mitnahme von Fahrrädern:</b> Die Angabe, ob und wie viele Fahrräder
+                    mitgenommen werden, ist entscheidend, um Verbindungen zu finden, die die
+                    Fahrradmitnahme erlauben. Nicht alle Züge bieten Stellplätze für Fahrräder,
+                    daher muss dies bei der Suche berücksichtigt werden.</li>
+                <li><b>Reservierung:</b> Für die Mitnahme von Fahrrädern ist in vielen Fällen eine
+                    Reservierung erforderlich. Die Angabe in der App hilft dabei, nur solche
+                    Verbindungen anzuzeigen, bei denen eine Fahrradmitnahme möglich und verfügbar
+                    ist.</li>
+            </ul>
+            <p>Die Option "Reisende, Fahrräder" hilft somit, die Suche und die Buchung von
+                Zugtickets in der DB Navigator App zu personalisieren und sicherzustellen, dass die
+                gefundene Verbindung den spezifischen Bedürfnissen der Reisenden entspricht. Indem
+                Sie diese Angaben machen, können Sie effizienter planen und mögliche Überraschungen
+                oder Unannehmlichkeiten während Ihrer Reise vermeiden.</p>
+        </section>
+    </conbody>
+    <related-links>
+        <link href="reisende_hinzuf%C3%BCgen.dita"/>
+        <link href="reisende_bearbeiten.dita"/>
+        <link href="hunde.dita"/>
+    </related-links>
+</concept>

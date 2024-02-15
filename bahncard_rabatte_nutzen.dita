@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="bahncard_rabatte_nutzen">
+    <title>BahnCard-Rabatte nutzen</title>
+    <shortdesc>Bei der Verbindungssuche können BahnCard-Rabatte beim Bearbeiten oder Hinzufügen von
+        Reisenden unter dem Abschnitt <b>Ermäßigungen</b> hinterlegt werden.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_f32_1mx_k1c">BahnCard-Rabatte werden bei der Verbindungssuche für jede/n
+            einzelnen Reisenden separat hinterlegt. Um die Optionen bearbeiten zu können, stellen
+            Sie sicher, dass Sie sich in der Ansicht <b>Reisende bearbeiten</b> befinden: <image
+                placement="inline" href="bilder/reisende-bearbeiten.png" height="25"
+                id="image_jcd_tmx_k1c"/></prereq>
+        <steps id="bahncard">
+            <step>
+                <cmd>Scrollen Sie zur Kategorie <b>Ermäßigungen</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Wählen Sie die entsprechende Bahn-Card aus: <image placement="break"
+                        href="bilder/auswahl-ermaessigungen.png" height="150" align="center"
+                        id="image_zcq_3nx_k1c">
+                        <alt>Auswahlliste Ermässigungen</alt>
+                    </image></cmd>
+                <info>Achten Sie bei der Auswahl unbedingt auf die Angabe der korrekten Klasse
+                    entsprechend der vorliegenden BahnCard.</info>
+            </step>
+            <step>
+                <cmd>Tippen Sie auf den Pfeil oben <image placement="inline"
+                        href="bilder/reisende-bearbeiten-verlassen.png" height="25"
+                        id="image_vhv_xnx_k1c">
+                        <alt>Bereich Reisende bearbeiten verlassen</alt>
+                    </image>.</cmd>
+            </step>
+        </steps>
+        <postreq id="postreq_pps_bqx_k1c">Die gewählte BahnCard wird in der Übersicht der Reisenden
+            angezeigt: <image placement="break" href="bilder/bahncard-person.png" height="50"
+                align="center" id="image_bf3_44x_k1c"/>Tippen Sie abschließend auf <image
+                placement="inline" href="bilder/fertig.png" height="25" id="btn_fertig"/>, um die
+            Einstellung in Ihre Verbindungssuche zu übernehmen.</postreq>
+    </taskbody>
+</task>

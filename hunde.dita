@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="hunde">
+    <title>Hunde</title>
+    <shortdesc>Die Mitnahme von Hunden bei der Deutschen Bahn ermöglicht es Reisenden, ihre
+        vierbeinigen Freunde auf Zugfahrten mitzunehmen. Diese Regelung trägt den Bedürfnissen von
+        Tierbesitzern Rechnung und macht Bahnreisen für sie flexibler und komfortabler. </shortdesc>
+    <conbody>
+        <section id="sec_hund_voraussetzungen">
+            <title>Voraussetzungen für die Mitnahme von Hunden</title>
+            <ul id="ul_a5x_522_l1c">
+                <li><b>Kleine Hunde:</b> Kleine Hunde, die in einer Transportbox untergebracht
+                    werden können, dürfen kostenlos mitgenommen werden.</li>
+                <li><b>Größere Hunde:</b> Für größere Hunde, die nicht in einer Transportbox Platz
+                    finden, muss in der Regel ein Ticket erworben werden. Dieses Ticket kostet oft
+                    den halben Preis eines normalen Fahrscheins.</li>
+                <li><b>Leine und Maulkorb:</b> Es wird empfohlen oder ist teilweise vorgeschrieben,
+                    dass größere Hunde während der Fahrt an der Leine geführt und mit einem Maulkorb
+                    versehen werden.</li>
+                <li><b>Sitzplatzreservierung:</b> Wenn ein Sitzplatz für den Hund benötigt wird, um
+                    ihm mehr Platz zu bieten, kann eine Sitzplatzreservierung erforderlich
+                    sein.</li>
+            </ul>
+        </section>
+        <section id="sec_hund_reiseplanung">
+            <title>Gründe für das Hinzufügen eines Hundes in der Reiseplanung</title>
+            <ul id="ul_cc3_z22_l1c">
+                <li><b>Transparenz und Planung:</b> Durch das Hinzufügen eines Hundes als Reisenden
+                    können Tierbesitzer die notwendigen Vorkehrungen für die Mitnahme ihres Hundes
+                    transparent und im Voraus planen. Dies schließt die Buchung eines zusätzlichen
+                    Tickets ein, falls erforderlich.</li>
+                <li><b>Anpassung der Reise:</b> Die Option erleichtert es Reisenden, ihre Fahrt
+                    entsprechend den Bedürfnissen ihres Hundes anzupassen, beispielsweise durch die
+                    Auswahl geeigneter Züge oder die Reservierung eines zusätzlichen
+                    Sitzplatzes.</li>
+                <li><b>Klarheit über Kosten:</b> Sie bietet Klarheit über die Kosten, die mit der
+                    Mitnahme des Hundes verbunden sind, und ermöglicht eine einfache und direkte
+                    Buchung des erforderlichen Tickets.</li>
+                <li><b>Bequemlichkeit:</b> Das Hinzufügen eines Hundes als Reisenden direkt in der
+                    App macht den Buchungsprozess bequemer und vermeidet Überraschungen oder
+                    Unklarheiten am Reisetag.</li>
+            </ul>
+        </section>
+        <section id="sec_hund_fazit">
+            <p>Die Möglichkeit, in der DB Navigator App einen Hund zu den Reisenden hinzuzufügen,
+                trägt wesentlich dazu bei, die Reisevorbereitungen für Tierbesitzer zu vereinfachen
+                und sicherzustellen, dass alle notwendigen Schritte für eine problemlose Mitnahme
+                des Hundes unternommen werden.</p>
+        </section>
+    </conbody>
+</concept>

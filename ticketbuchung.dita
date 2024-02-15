@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="ticketbuchung">
+    <title>Ticketbuchung</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Die DB Navigator App vereinfacht die Ticketbuchung für Bahnreisen erheblich, indem sie eine Plattform bietet, auf der Nutzer Verbindungen suchen, Preise vergleichen und direkt Tickets kaufen können. Die Direktbuchung über die App spart Zeit und bietet Flexibilität, indem sie den Nutzern ermöglicht, ihre Reisepläne von überall aus zu verwalten.</p>
+        
+        <section>
+            <title>Vorteile der Direktbuchung</title>
+            <p>Die Buchung über die DB Navigator App bietet mehrere Vorteile:</p>
+            <ul>
+                <li><b>Einfachheit:</b> Die intuitive Benutzeroberfläche ermöglicht eine schnelle und unkomplizierte Buchung.</li>
+                <li><b>Flexibilität:</b> Reisende können Tickets jederzeit und überall buchen oder stornieren.</li>
+                <li><b>Übersicht:</b> Alle Reiseinformationen und Tickets sind an einem Ort gespeichert und leicht zugänglich.</li>
+                <li><b>Automatische Sparpreissuche:</b> Die App zeigt automatisch die günstigsten verfügbaren Tarife an.</li>
+            </ul>
+        </section>
+        
+        <section>
+            <title>Zahlungsmöglichkeiten</title>
+            <p>Für die Bezahlung von Tickets bietet die DB Navigator App verschiedene Zahlungsmöglichkeiten an, darunter:</p>
+            <ul>
+                <li>Kreditkarten (Visa, MasterCard, American Express)</li>
+                <li>PayPal</li>
+                <li>Sofortüberweisung</li>
+                <li>SEPA-Lastschrift</li>
+            </ul>
+        </section>
+        
+        <section>
+            <title>Sitzplatzreservierung</title>
+            <p>Zusätzlich zur Ticketbuchung können Reisende auch Sitzplätze reservieren, um sich einen bevorzugten Platz im Zug zu sichern. Diese Option ist besonders auf längeren Reisen oder in Stoßzeiten zu empfehlen, um Komfort und Bequemlichkeit zu gewährleisten.</p>
+        </section>
+        
+        <section>
+            <title>Hinweis zur Registrierung und Anmeldung</title>
+            <p>Bitte beachten Sie, dass für die Buchung von Tickets über die DB Navigator App eine vorherige Registrierung und Anmeldung notwendig ist. Da diese einführende Dokumentation keine Schritt-für-Schritt-Anleitung zur Buchung enthält, empfehlen wir, die ausführliche Anleitung der Deutschen Bahn zu verwenden, die alle notwendigen Schritte detailliert beschreibt.</p>
+        </section>
+    </conbody>
+</concept>

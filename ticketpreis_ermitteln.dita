@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ticketpreis_ermitteln">
+    <title>Ticketpreis ermitteln</title>
+    <shortdesc>Diese Anleitung führt Sie durch die Schritte zur Ermittlung des Ticketpreises für
+        eine ausgewählte Verbindung in der DB Navigator App, beginnend in der
+        Verbindungsübersicht.</shortdesc>
+    <taskbody>
+        <steps>
+                <step id="stp_ticketpreis_start">
+                <cmd>Öffnen Sie die DB Navigator App auf Ihrem mobilen Gerät und führen Sie eine
+                    Verbindungssuche durch, indem Sie Ihre Start- und Zielorte sowie das gewünschte
+                    Reisedatum und die Uhrzeit eingeben.</cmd>
+                <info>Stellen Sie sicher, dass Sie alle relevanten Einstellungen wie die Anzahl der
+                    Reisenden, Verkehrsmittelpräferenzen und ob eine Fahrradmitnahme gewünscht ist,
+                    bereits vorgenommen haben.</info>
+            </step>
+                <step id="stp_ticketpreis_verbindungen">
+                <cmd>Betrachten Sie die Verbindungsübersicht, die alle verfügbaren Verbindungen
+                    basierend auf Ihren Suchkriterien anzeigt.</cmd>
+            </step>
+                <step id="stp_ticketpreis_preis">
+                <cmd>Wählen Sie die Verbindung aus, für die Sie den Preis ermitteln möchten, indem
+                    Sie darauf tippen.</cmd>
+                <info>Dies führt Sie zu einer detaillierten Ansicht der Verbindung, einschließlich
+                    aller Zwischenhalte und der verfügbaren Ticketoptionen.</info>
+            </step>
+            <step id="stp_ticketpreis_auswahl">
+                <cmd>Tippen Sie auf den Button <option>Zur Angebotsauswahl</option>.</cmd>
+            </step>
+                <step id="stp_ticketpreis_ticketoptionen">
+                <cmd>Sehen Sie sich die verfügbaren Ticketoptionen an, die möglicherweise Sparpreis,
+                    Super-Sparpreis und Flexpreis umfassen.</cmd>
+                <info>Jede Ticketoption zeigt den entsprechenden Preis sowie Informationen zu den
+                    Bedingungen wie Stornierungsmöglichkeiten und Flexibilität bei der
+                    Reisezeit.</info>
+            </step>
+                <step id="stp_ticketpreis_details">
+                <cmd>Wählen Sie eine Ticketoption aus, um weitere Details zu sehen oder das Ticket
+                    zu diesem Preis zu buchen.</cmd>
+                <info>Sie können auch Ermäßigungen anwenden, falls Sie dazu berechtigt sind, wie
+                    BahnCard-Rabatte oder Ermäßigungen für Kinder.</info>
+            </step>
+        </steps>
+        <result id="res_ticketpreis">Nach dem Befolgen dieser Schritte haben Sie erfolgreich den
+            Ticketpreis für Ihre Fahrt in der DB Navigator App ermittelt und können bei Bedarf die
+            Tickets direkt buchen.</result>
+    </taskbody>
+    <related-links>
+        <link href="verbindungssuche.dita"/>
+        <link href="erm%C3%A4ssigungen.dita"/>
+        <link href="reisende_hinzuf%C3%BCgen.dita"/>
+        <link href="reisende_bearbeiten.dita"/>
+    </related-links>
+</task>

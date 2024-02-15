@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="suchoptionen">
+    <title>Suchoptionen</title>
+    <conbody>
+        <p>Bei der Planung Ihrer Reise mit der DB Navigator App stehen Ihnen verschiedene
+            Suchoptionen zur Verfügung, die es Ihnen ermöglichen, Ihre Suche nach Zugverbindungen zu
+            personalisieren und genau auf Ihre Bedürfnisse abzustimmen. Diese Optionen bieten
+            Flexibilität und Kontrolle über die Planung Ihrer Bahnreisen.</p>
+        <ul id="suchoptionen">
+            <li><xref href="datum_und_uhrzeit_einstellen.dita">Datum und Uhrzeit</xref></li>
+            <li><xref href="reisende_fahrr%C3%A4der.dita">Reisende und Fahrräder</xref></li>
+            <li><xref href="optionen.dita">Optionen zur Verfeinerung der Suche</xref></li>
+            <li><xref href="schnellste_verbindungen_anzeigen.dita">Schnellste Verbindungen
+                    anzeigen</xref></li>
+        </ul>
+        <p>Die DB Navigator App bietet eine Vielzahl von Suchoptionen, die Ihre Reiseplanung
+            erleichtern und personalisieren. Indem Sie Datum und Uhrzeit festlegen, die Anzahl der
+            Reisenden und Fahrräder angeben, Ihre Suche mit spezifischen Optionen verfeinern und die
+            schnellsten Verbindungen priorisieren, können Sie sicherstellen, dass Ihre Bahnreise
+            genau Ihren Wünschen entspricht. Diese Suchoptionen bilden ein Kernstück der
+            Funktionalität der App und ermöglichen eine maßgeschneiderte Reiseerfahrung.</p>
+    </conbody>
+    <related-links>
+        <link href="verbindungssuche.dita"/>
+    </related-links>
+</concept>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Einführung in den DB Navigator</title>
+    <topicref href="vorwort.dita"/>
+    <topicref href="%C3%BCberblick_%C3%BCber_die_db_navigator_app.dita"/>
+    <topicref href="verbindungen_suchen.dita">
+        <topicref href="verbindungssuche.dita"/>
+        <topicref href="suchoptionen.dita">
+            <topicref href="datum.dita">
+                <topicref href="datum_und_uhrzeit_einstellen.dita"/>
+            </topicref>
+            <topicref href="reisende_fahrr%C3%A4der.dita">
+                <topicref href="reisende_hinzuf%C3%BCgen.dita"/>
+                <topicref href="reisende_bearbeiten.dita"/>
+                <topicref href="reisende_l%C3%B6schen.dita"/>
+                <topicref href="hunde.dita"/>
+            </topicref>
+            <topicref href="optionen.dita"/>
+            <topicref href="schnellste_verbindungen_anzeigen.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="ticketpreise.dita">
+        <topicref href="ticketpreis_ermitteln.dita"/>
+        <topicref href="r%C3%BCckfahrt_hinzuf%C3%BCgen.dita"/>
+        <topicref href="ticketbuchung.dita"/>
+    </topicref>
+    <topicref href="reisende_fahrr%C3%A4der.dita"/>
+    <topicref href="erm%C3%A4ssigungen.dita">
+        <topicref href="bahncard_rabatte_nutzen.dita"/>
+        <topicref href="sparpreise_und_super_sparpreise.dita"/>
+        <topicref href="erm%C3%A4ssigungen_f%C3%BCr_bestimmte_personengruppen.dita"/>
+        <topicref href="regionale_angebote_und_l%C3%A4ndertickets.dita"/>
+    </topicref>
+</map>

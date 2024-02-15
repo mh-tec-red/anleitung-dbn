@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="ermässigungen">
+    <title>Ermässigungen</title>
+    <shortdesc>Die DB Navigator App bietet verschiedene Möglichkeiten für Ermäßigungen, die
+        Reisenden helfen können, bei ihren Bahnfahrten zu sparen. Diese Ermäßigungen sind besonders
+        nützlich für Personen, die regelmäßig mit der Bahn reisen, sowie für Gruppen, Familien oder
+        Personen mit speziellen Rabattberechtigungen.</shortdesc>
+    <conbody>
+        <section id="section_ssh_mkx_k1c">
+            <title>BahnCard-Rabatte</title>
+            <p><b>BahnCard 25/50/100:</b> Inhaber einer BahnCard können je nach Kartentyp 25%, 50%
+                oder sogar 100% Ermäßigung auf den Flexpreis im Fernverkehr erhalten. Die
+                BahnCard-Ermäßigung kann während der Buchung in der App ausgewählt und angewendet
+                werden.</p>
+        </section>
+        <section id="section_p4t_nkx_k1c">
+            <title>Sparpreise und Super Sparpreise</title>
+            <ul id="ul_zm3_lkx_k1c">
+                <li><b>Sparpreise:</b> Bieten vergünstigte Fahrkarten für bestimmte Züge und
+                    Strecken, wenn diese im Voraus gebucht werden. Verfügbarkeiten können in der App
+                    geprüft und direkt gebucht werden.</li>
+                <li><b>Super Sparpreise:</b> Noch günstigere Tarife als die regulären Sparpreise,
+                    allerdings mit strengeren Bedingungen hinsichtlich Umtausch und
+                    Stornierung.</li>
+            </ul>
+        </section>
+        <section id="section_wkc_5kx_k1c">
+            <title>Ermäßigungen für bestimmte Personengruppen</title>
+            <ul id="ul_an3_lkx_k1c">
+                <li><b>Kinder:</b> Kinder unter 6 Jahren reisen in der Regel kostenlos, Kinder von 6
+                    bis einschließlich 14 Jahren reisen kostenlos in Begleitung ihrer Eltern oder
+                    Großeltern.</li>
+                <li><b>Gruppen:</b> Für Gruppenreisen bietet die DB spezielle Gruppentarife an, die
+                    über die App gebucht werden können.</li>
+                <li><b>Schwerbehinderte:</b> Personen mit einem Schwerbehindertenausweis können
+                    unter bestimmten Voraussetzungen Ermäßigungen oder sogar Freifahrten in Anspruch
+                    nehmen.</li>
+            </ul>
+        </section>
+        <section id="section_ggl_vkx_k1c">
+            <title>Regionale Angebote und Ländertickets</title>
+            <ul id="ul_bn3_lkx_k1c">
+                <li><b>Ländertickets:</b> Ermöglichen das Reisen in einem Bundesland für einen Tag
+                    mit allen Regionalzügen zu einem Festpreis. Ideal für Tagesausflüge.</li>
+                <li><b>Quer-durchs-Land-Ticket:</b> Bietet die Möglichkeit, deutschlandweit an einem
+                    Tag mit Regionalzügen zu reisen.</li>
+            </ul>
+        </section>
+        <section id="section_cn3_lkx_k1c">
+            <title>Zeitkarten und Abonnements</title>
+            <ul id="ul_dn3_lkx_k1c">
+                <li><b>Zeitkarten:</b> Monats- oder Jahreskarten für Pendler, die regelmäßig
+                    dieselbe Strecke zurücklegen.</li>
+                <li><b>Abo-Angebote:</b> Für regelmäßige Reisende, die auf bestimmten Strecken
+                    unterwegs sind, können Abonnements erhebliche Ersparnisse bieten.</li>
+            </ul>
+            <p>Beim Buchen über die DB Navigator App können die entsprechenden Ermäßigungen im
+                Buchungsprozess ausgewählt werden. Nutzer müssen oft ihre Berechtigung für bestimmte
+                Ermäßigungen nachweisen können, z.B. durch Vorzeigen einer BahnCard oder eines
+                entsprechenden Ausweises. Die App bietet eine praktische Möglichkeit, die
+                verschiedenen Ermäßigungsoptionen zu prüfen und die günstigsten Tarife für Ihre
+                Reise zu finden.</p>
+        </section>
+    </conbody>
+    <related-links>
+        <link href="ticketpreise.dita"/>
+        <link href="ticketbuchung.dita"/>
+    </related-links>
+</concept>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="verbindungen_suchen">
+    <title>Verbindungen suchen</title>
+    <shortdesc>Die Verbindungssuche ist eine der Hauptfunktionen der DB Navigator App und ermöglicht
+        es Ihnen, Zugverbindungen zwischen verschiedenen Orten zu finden. </shortdesc>
+    <conbody>
+        <p>Durch die Eingabe von Start- und Zielort können Sie schnell Informationen über
+            Abfahrtszeiten, Ankunftszeiten, Umsteigemöglichkeiten, Reisedauer und Zugtypen erhalten.
+            Diese Funktion ist besonders nützlich, um Ihre Reise im Voraus zu planen oder auch
+            spontan die beste Verbindung zu finden. Die Verbindungssuche bietet verschiedene Filter-
+            und Sortieroptionen, um die Suche Ihren persönlichen Präferenzen anzupassen – sei es die
+            schnellste, die günstigste oder eine Verbindung mit minimalen Umstiegen.</p>
+    </conbody>
+</concept>

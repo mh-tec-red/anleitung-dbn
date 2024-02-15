@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="rückfahrt_hinzufügen">
+    <title>Rückfahrt hinzufügen</title>
+    <shortdesc>Das Ermitteln des Ticketpreises mit Rückfahrt ist ein wesentlicher Schritt bei der
+        Planung Ihrer Bahnreise, um ein umfassendes Verständnis der Gesamtkosten zu erhalten. Die
+        Deutsche Bahn bietet über die DB Navigator App eine bequeme Möglichkeit, nicht nur die
+        Kosten für die Hinfahrt, sondern auch für die Rückfahrt transparent und schnell zu
+        ermitteln. Diese Funktion ist besonders nützlich für Reisende, die Rundreisen planen oder
+        sicherstellen möchten, dass ihr Reisebudget die Gesamtkosten der Fahrt abdeckt. </shortdesc>
+    <taskbody>
+        <context>
+            <p>Durch die Berücksichtigung von verschiedenen Ticketoptionen und Ermäßigungen können
+                Sie die für Sie kosteneffizienteste und zugleich komfortabelste Reiseoption
+                auswählen. In den folgenden Abschnitten wird erläutert, wie Sie in der DB Navigator
+                App den Ticketpreis für Ihre Reise inklusive Rückfahrt ermitteln können, unter
+                Einbeziehung aller verfügbaren Spar- und Flexpreisoptionen sowie möglicher
+                Ermäßigungen.</p>
+        </context>
+        <steps>
+            <step conref="ticketpreis_ermitteln.dita#ticketpreis_ermitteln/stp_ticketpreis_start">
+                <cmd/>
+            </step>
+            <step
+                conref="ticketpreis_ermitteln.dita#ticketpreis_ermitteln/stp_ticketpreis_verbindungen">
+                <cmd/>
+            </step>
+            <step id="stp_ticketpreis_preis">
+                <cmd>Wählen Sie die Verbindung aus, für die Sie den Preis ermitteln möchten, indem
+                    Sie darauf tippen.</cmd>
+                <info>Dies führt Sie zu einer detaillierten Ansicht der Verbindung, einschließlich
+                    aller Zwischenhalte und der verfügbaren Ticketoptionen.</info>
+            </step>
+            <step>
+                <cmd>Tippen Sie auf die Option „Rückfahrt hinzufügen“ und geben Sie das gewünschte Datum und die Uhrzeit für Ihre Rückfahrt ein.</cmd>
+            </step>
+            <step>
+                <cmd>Betrachten Sie die Verbindungsübersicht, die alle verfügbaren Verbindungen basierend auf Ihren Suchkriterien für sowohl die Hinfahrt als auch die Rückfahrt anzeigt.</cmd>
+            </step>
+            <step>
+                <cmd>Wählen Sie die gewünschten Verbindungen für Ihre Hin- und Rückfahrt aus, indem Sie darauf tippen.</cmd>
+                <info>Dies führt Sie zu einer detaillierten Ansicht der Verbindungen, einschließlich aller Zwischenhalte und der verfügbaren Ticketoptionen.</info>
+            </step>
+            <step conref="ticketpreis_ermitteln.dita#ticketpreis_ermitteln/stp_ticketpreis_auswahl">
+                <cmd/>
+            </step>
+            <step
+                conref="ticketpreis_ermitteln.dita#ticketpreis_ermitteln/stp_ticketpreis_ticketoptionen">
+                <cmd/>
+            </step>
+            <step conref="ticketpreis_ermitteln.dita#ticketpreis_ermitteln/stp_ticketpreis_details">
+                <cmd/>
+            </step>
+        </steps>
+        <result conref="ticketpreis_ermitteln.dita#ticketpreis_ermitteln/res_ticketpreis"
+            id="result_ly4_yk2_l1c"/>
+    </taskbody>
+</task>

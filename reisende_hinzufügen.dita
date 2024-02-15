@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="reisende_hinzufügen">
+    <title>Reisende hinzufügen</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>Fügen Sie weitere Reisende zu Ihrer Suchanfrage hinzu.<p/></context>
+        <steps>
+            <step id="reisende-step1">
+                <cmd>Öffnen Sie die Option <image placement="inline" href="bilder/reisende-feld.png"
+                        height="25" id="image_wdx_jzw_k1c"/> in der Suchansicht.</cmd>
+                <stepresult>Das Einstellungsfenster <b>Reisende</b> öffnet sich: <image
+                        placement="break" href="bilder/auswahl-reisende.png" height="150"
+                        align="center" id="image_ikr_nzw_k1c">
+                        <alt>Einstellungsfenster Reisende</alt>
+                    </image></stepresult>
+            </step>
+            <step id="reisende-step2">
+                <cmd>Wählen Sie die gewünschte Reiseklasse aus <option>1. Klasse</option>
+                        oder<option>2. Klasse</option></cmd>
+            </step>
+            <step>
+                <cmd>Tippen Sie auf das Feld <image placement="inline"
+                        href="bilder/reisende-hinzuf%C3%BCgen.png" height="25"
+                        id="image_xd3_5zw_k1c"/>.</cmd>
+                <stepresult>Das Einstellungsfenster <b>Reisende hinzufügen</b> öffnet
+                    sich.</stepresult>
+            </step>
+            <step id="stp_reisende_optionen">
+                <cmd>Wählen Sie alle zutreffenden Optionen in den Abschnitten
+                        <option>Reisende</option> und <option>Ermäßigungen</option> aus.</cmd>
+                <info>Bei Reisen nach Österreich<fn>Vorteilscard Österreich, KlimaTicket
+                        Österreich</fn>, in die Schweiz<fn>CH-General-Abonnement 1./2. Klasse,
+                        HalbtaxAbo</fn> oder die Niederlande<fn>NL-40%</fn> können Sie unter dem
+                    Abschnitt <option>Weitere Ermäßigungen</option> auch für diese Länder
+                    Ermäßigungen eintragen.</info>
+            </step>
+            <step id="stp_reisende_okay">
+                <cmd>Tippen Sie auf den Pfeil neben dem Wort <option>Reisende</option>, um die
+                    Einstellungen zu übernehmen.</cmd>
+                <stepresult>Die gewählten Optionen werden in der Liste <b>Reisende</b>
+                    angezeigt.</stepresult>
+            </step>
+            <step
+                conref="datum_und_uhrzeit_einstellen.dita#datum_und_uhrzeit_einstellen/step_fertig">
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links deliveryTarget="html">
+        <link href="verbindungssuche.dita"/>
+        <link href="reisende_bearbeiten.dita"/>
+        <link href="reisende_l%C3%B6schen.dita"/>
+        <link href="datum_und_uhrzeit_einstellen.dita"/>
+    </related-links>
+</task>

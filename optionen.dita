@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="optionen">
+    <title>Optionen</title>
+    <shortdesc>In der DB Navigator App ermöglichen diverse Suchoptionen eine präzise und individuell
+        angepasste Suche nach Bahnverbindungen, um den vielfältigen Bedürfnissen und Präferenzen der
+        Reisenden gerecht zu werden. Von der Auswahl spezifischer Verkehrsmittel über die
+        Fahrradmitnahme bis hin zur Einstellung von Direktverbindungen und Umstiegszeiten – diese
+        Optionen bieten Flexibilität und Komfort für eine maßgeschneiderte Reiseplanung. Im
+        Folgenden werden die verfügbaren Optionen detailliert beschrieben, um Nutzern der DB
+        Navigator App ein tieferes Verständnis und effizientere Nutzung dieser Funktionen zu
+        ermöglichen.</shortdesc>
+    <conbody>
+        <image placement="break" href="bilder/optionen.png" height="150" align="center"
+            id="image_zpx_twx_k1c"/>
+        <section id="sec_opt_verkehrsmittel">
+            <title>Verkehrsmittel</title>
+            <p>Die Option „Verkehrsmittel“ erlaubt Nutzern, spezifische Typen von Zügen oder
+                S-Bahnen für ihre Reisesuche auszuwählen. Ob schnelle ICE-Züge für Fernreisen,
+                Regionalbahnen für kürzere Strecken oder S-Bahnen für den Stadtverkehr – durch diese
+                Auswahlmöglichkeit kann die Suche effektiv auf die bevorzugten Verkehrsmittel
+                eingeschränkt werden, was besonders bei der Planung von Punkt-zu-Punkt-Verbindungen
+                oder bei Reisen mit bestimmten Komfortansprüchen von Vorteil ist.</p>
+        </section>
+        <section id="sec_opt_fahrrad">
+            <title>Fahrradmitnahme möglich</title>
+            <p>Diese Option ist für Radreisende essentiell, da sie die Suche auf Verbindungen
+                beschränkt, die explizit die Mitnahme von Fahrrädern erlauben. Angesichts der
+                unterschiedlichen Bestimmungen zur Fahrradmitnahme in verschiedenen Zügen ermöglicht
+                diese Einstellung eine schnelle Identifizierung von geeigneten Verbindungen,
+                einschließlich der Möglichkeit zur Reservierung eines Fahrradstellplatzes, falls
+                erforderlich.</p>
+        </section>
+        <section id="sec_opt_direktverbindungen">
+            <title>Nur Direktverbindungen</title>
+            <p>Für Reisende, die Umstiege vermeiden möchten, bietet die Option „Nur
+                Direktverbindungen“ eine einfache Möglichkeit, die Suche auf Verbindungen zu
+                beschränken, die ohne Zwischenstopps zum Ziel führen. Dies ist besonders für
+                Reisende mit schwerem Gepäck, Familien oder diejenigen, die eine bequemere und
+                stressfreie Reise bevorzugen, von Nutzen.</p>
+        </section>
+        <section id="sec_opt_umstiegzeit">
+            <title>Umstiegzeit</title>
+            <p>Die Anpassung der Umstiegzeit ist eine fein abstimmbare Option, die es erlaubt, die
+                Mindest- oder Maximaldauer für Umstiege festzulegen. Dies ist besonders für Reisende
+                wichtig, die sich mehr Zeit beim Umsteigen wünschen, um beispielsweise längere Wege
+                zwischen den Bahnsteigen zurückzulegen, oder die die Umstiegszeit so kurz wie
+                möglich halten möchten, um die Gesamtreisedauer zu minimieren.</p>
+        </section>
+        <section id="sec_opt_zwischenhalte">
+            <title>Zwischenhalte</title>
+            <p>Die Option „Zwischenhalte“ gibt Aufschluss über die Anzahl und die spezifischen
+                Haltepunkte einer Verbindung. Nutzer können damit Verbindungen ausschließen, die an
+                unerwünschten Stationen halten, oder solche bevorzugen, die bestimmte Orte anfahren.
+                Diese Funktion ist besonders nützlich für Reisende, die ihre Route genau planen
+                möchten oder die an bestimmten Stationen aussteigen müssen.</p>
+        </section>
+        <section id="sec_opt_fazit">
+            <p>Die detaillierten Optionen in der Verbindungssuche der DB Navigator App bieten eine
+                umfassende Flexibilität bei der Planung von Bahnreisen. Indem sie Reisenden
+                erlauben, ihre Suche nach persönlichen Präferenzen und Anforderungen zu
+                spezifizieren, tragen diese Funktionen erheblich zu einer verbesserten und
+                zufriedenstellenden Reiseerfahrung bei.</p>
+        </section>
+    </conbody>
+</concept>

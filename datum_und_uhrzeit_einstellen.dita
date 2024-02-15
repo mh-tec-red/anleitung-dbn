@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="datum_und_uhrzeit_einstellen">
+    <title>Datum und Uhrzeit einstellen</title>
+    <shortdesc>Erfahren Sie, wie Sie Datum und Zeit für Ihre Reisepläne anpassen.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Die Wahl von Datum und Uhrzeit Ihrer Reise ist der erste Schritt, um passende
+                Verbindungen zu finden. Sie können nicht nur das gewünschte Reisedatum auswählen,
+                sondern auch entscheiden, ob Sie nach der ersten möglichen Abfahrt suchen oder eine
+                spezifische Abfahrts- bzw. Ankunftszeit bevorzugen. Dies ermöglicht es Ihnen, Ihre
+                Reise genau zu planen und Verbindungen zu finden, die Ihren Zeitvorstellungen
+                entsprechen.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd id="step1-abschnitt-buchen">Stellen Sie sicher, dass Sie sich im Abschnitt
+                        <image placement="inline" href="bilder/buchen.png" height="25"
+                        id="image_ivr_knw_k1c">
+                        <alt>Buchen</alt>
+                    </image> befinden.</cmd>
+            </step>
+            <step>
+                <cmd>Tippen Sie auf das Optionenfeld <b>Datum</b>: <image placement="inline"
+                        href="bilder/datum-feld.png" height="25" id="datum-feld">
+                        <alt>Datum</alt>
+                    </image></cmd>
+                <stepresult>Auf Ihrem Display erscheint dieses Auswahlfenster:<image
+                        placement="break" href="bilder/auswahl-datum-zeit.png" height="150"
+                        align="center" id="image_dc4_zjw_k1c">
+                        <alt>Auswahlfenster Datum und Uhrzeit</alt>
+                    </image></stepresult>
+            </step>
+            <step>
+                <cmd>Wählen Sie Ihre Reisedatum aus.</cmd>
+                <info>Über die Pfeiltasten rechts und links neben dem Monat können Sie zwischen den
+                    Monaten wechseln.</info>
+            </step>
+            <step>
+                <cmd>Wählen Sie die gewünschte Abfahrtszeit aus.</cmd>
+                <info>Alternativ können Sie durch Tippen auf <b>Ankunft</b> die gewünschte
+                    Ankunftszeit an Ihrem Zielort eingeben.</info>
+                <info>Durch Tippen auf die Felder <b>Jetzt</b>, <b>in 15min</b> oder <b>in 1h</b>
+                    wird die Uhrzeit automatisch entsprechend eingetragen. <p>Beispiel: Sie
+                        bearbeiten die Uhrzeiteinstellungen um 10:00 Uhr. Durch Tippen auf das Feld
+                            <b>in 15min</b> wird das Uhrzeitfeld automatisch auf die Uhrzeit 10:15
+                        Uhr angepasst. Durch Tippen auf das Feld <b>in 1h</b> wird die Uhrzeit
+                        automatisch auf 11:00 Uhr aktualisiert. Durch Tippen auf das Feld
+                            <b>Jetzt</b> können Sie die Uhrzeit wieder auf die aktuelle Uhrzeit
+                        zurücksetzen.</p></info>
+            </step>
+            <step id="step_fertig">
+                <cmd>Wenn Sie alle Einstellungen vorgenommen haben, tippen Sie auf <image
+                        placement="inline" href="bilder/fertig.png" height="25"
+                        id="image_o3x_yvd_l1c"/>, um die Einstellungen zu übernehmen und zur
+                    Verbindungssuche zurückzukehren.</cmd>
+            </step>
+        </steps>
+        <result id="result_sjj_ylw_k1c">Das gewünschte Reisedatum und die gewünschte Reisezeit
+            werden im Datumsfeld angezeigt. Kontrollieren Sie zur Sicherheit, ob die Daten korrekt
+            sind.</result>
+    </taskbody>
+    <related-links>
+        <link href="verbindungssuche.dita"/>
+    </related-links>
+</task>
